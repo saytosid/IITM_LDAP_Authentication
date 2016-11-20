@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''@package IITMandi_LDAP
 A Script for IIT Mandi LDAP authentication which is required for internet access.
 
