@@ -26,9 +26,12 @@ OR
     PASSWORD = "Your Password" ##Constant to store your password
 3. Run from terminal
 
-   `python LDAP.py` 
-   OR 
-   `Make it executable` 
+   `python LDAP.py`
+   
+   OR
+   
+   Make it executable 
+   `chmod +x LDAP.py`
    
    Now Double-click to run. 
 
