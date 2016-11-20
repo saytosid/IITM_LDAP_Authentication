@@ -19,11 +19,14 @@ This is intended to make the redundant process of logging easier and fast.
 
 OR
 **How to run**
+
 1. Make sure your chromedriver file is in the same directory as the script.
+
 2. Inside the script, edit USERNAME and PASSWORD variables with your credentials.
 
     USERNAME = "Your LDAP username" ##Constant to store your username
     PASSWORD = "Your Password" ##Constant to store your password
+
 3. Run from terminal
 
    `python LDAP.py`
