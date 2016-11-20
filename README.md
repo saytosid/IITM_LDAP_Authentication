@@ -23,8 +23,10 @@ This is intended to make the redundant process of logging easier and fast.
 
 2. Inside the script, edit USERNAME and PASSWORD variables with your credentials.
 
+    ```
     USERNAME = "Your LDAP username" ##Constant to store your username
     PASSWORD = "Your Password" ##Constant to store your password
+    ```
 
 3. Run from terminal
 
