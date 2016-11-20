@@ -13,6 +13,7 @@ This is intended to make the redundant process of logging easier and fast.
 
 ###Download
 **Clone the repository** 
+
     git clone https://githum.com/saytosid/IITM_LDAP_Authentication.git 
     cd IITM_LDAP_Authentication
 
