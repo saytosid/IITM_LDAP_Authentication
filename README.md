@@ -17,7 +17,6 @@ This is intended to make the redundant process of logging easier and fast.
     git clone https://githum.com/saytosid/IITM_LDAP_Authentication.git 
     cd IITM_LDAP_Authentication
 
-OR
 **How to run**
 
 1. Make sure your chromedriver file is in the same directory as the script.
@@ -34,6 +33,7 @@ OR
    OR
    
    Make it executable 
+   
    `chmod +x LDAP.py`
    
    Now Double-click to run. 
